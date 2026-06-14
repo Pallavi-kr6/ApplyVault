@@ -1,4 +1,4 @@
-# ResumeTracker AI
+# ApplyVault
 
 ResumeTracker AI is a production-oriented SaaS scaffold for automatically tracking job applications from supported job boards and analyzing them with Groq.
 
